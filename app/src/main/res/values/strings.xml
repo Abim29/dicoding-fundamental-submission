@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="avatar">avatar</string>
+    <string name="username">{username}</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="follow">%1$d Followers | %2$d Following</string>
+    <string name="search">search</string>
+    <string name="search_hint">Enter Username…</string>
+    <string name="empty_following">User doesn\'t follow anyone yet.</string>
+    <string name="empty_follower">User doesn\'t have follower.</string>
+    <string name="data_fail">Failed to collect data.</string>
+    <string name="empty_user">Empty Data.</string>
+    <string name="empty_user_detail">User Not Found.</string>
+    <string name="user_fail">Failed to collect user\'s data.</string>
+    <string name="settings">settings</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Apply Dark Mode</string>
+</resources>
